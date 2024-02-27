@@ -1,4 +1,4 @@
-# 👋 Olá pessoal! Bem vindos ao meu GitHub 👋
+# 👋 Olá! Seja bem vindo ao meu  perfil do GitHub 👋
 ## Meu nome é Bernardo Cadore Ramires (@bcadore)
 ### Sou estudante de programação com interesse nas tecnologias voltadas para o Front-End.
 
