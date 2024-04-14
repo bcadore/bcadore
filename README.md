@@ -1,18 +1,34 @@
-# 👋 Olá! Seja bem vindo ao meu  perfil do GitHub 👋
+# 👋 Olá!!! Seja bem vindo ao meu  perfil do GitHub
+
 ## Meu nome é Bernardo Cadore Ramires (@bcadore)
-### Sou estudante de programação com interesse nas tecnologias voltadas para o Front-End.
 
-- 🌱 Estou em constante aprendizado nas linguagens de programação que envolvem o desenvolvimento web, como por exemplo: HTML, CSS e JavaScript.
+### Sou estudante de programação com interesse nas tecnologias voltadas para o front-end.
 
-- 📚 Em meus repositórios, será encontrado os projetos que estou trabalhando atualmente.
+- 🌱 Sou apaixonado pela programação web e estou em constante aprendizado nas tecnologias/ferramentas que envolvem este universo.
 
-- 🔭 Procuro sempre me manter atualizado e desenvolvendo códigos com tecnologias atualizadas do mercado.
+- 📚 Atualmente, sou aluno no curso **"Engenheiro Front-End"** da **EBAC**. Em meus repositórios, será encontrado os projetos onde coloco em prática os ensinamentos do curso.
 
-## Linguagens de programação e frameworks:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/>
 
-#### 💬 Entre em contato comigo: https://www.linkedin.com/in/bernardocadore/
+## 🖥️ Tecnologias e Ferramentas:
+<img width="300px" align="right" src="https://i.ibb.co/zbTM5w7/photo-2021-12-23-11-04-06-removebg-preview-1.png">
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML5"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" title = "CSS3"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title = "REACT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+
+##
+<p align="center">
+<a href="https://github.com/bcadore">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bcadore&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bcadore&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+## Contato:
+
+### 💬 Entre em contato comigo através do meu [linkedin](https://www.linkedin.com/in/bernardocadore/) ou enviar um email para bernardo.cadore95@gmail.com
+
+---
